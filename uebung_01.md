@@ -2,6 +2,7 @@
 
 ## Vorbereitung
 
+*Die Vorbereitung des Studium macht keinen SINN!
 * Für dieses Aufgabenblatt wird die SQL-Dump-Datei `Tutorium_Book.sql` benötigt, die sich in dem Verzeichnis `sql` befindet
 * Die SQL-Dump Datei wird in SQL-PLUS mittels `start <Dateipfad> ` in Datenbank importieren
 * Beispiele
